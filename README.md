@@ -4,6 +4,11 @@ Descripción del proyecto
 Resolución de los ejercicios de la evaluación práctica.
 
 Pre-requisitos
+ - Instalar Visual Studio Code
+ - Instalar Git y Git Bash
+ - Instalar Postman
+
+Resoluciones
 
 Ejercicio 1
  - Instalar Visual Studio Code un IDE que muchos programadores utilizan debido a la versatilidad de lenguajes que admite, es completamente gratuito y se puede obtener de la página    oficial: https://code.visualstudio.com/download ![Instalación de Visual Studio Code](https://user-images.githubusercontent.com/93282584/148654506-67bebcdf-f503-4708-9d81-5471c69617c3.png)
@@ -45,3 +50,20 @@ R: Es un modelo de arquitectura web que permite el intercambio de información e
 
 12.	¿Qué son los headers en un request? ¿Para qué se utiliza el key Content-type en un header?
 R: Los headers o cabeceras son la parte central de una petición y permiten mostrar la información a través del navegador del cliente. El Content-type se utiliza para indicar el medio del recurso.
+
+Ejercicio 3
+
+1.	Realizar un request GET a la URL: https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json
+![image](https://user-images.githubusercontent.com/93282584/148697949-6121fd04-0072-4849-bb53-07343934fa64.png)
+
+2.	Realizar un request POST a la URL anterior, y con body:
+![image](https://user-images.githubusercontent.com/93282584/148697980-2b5a32e8-1484-4168-8086-3bceb4d3d4b4.png)
+
+3.	Realizar nuevamente un request GET a la URL: https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json
+![image](https://user-images.githubusercontent.com/93282584/148698000-ce66673a-3cc8-4613-9ae3-eacd24bbbe0e.png)
+
+¿Qué diferencias se observan entre las llamadas el punto 1 y 3?
+Que en la primera llamada no se encuentra el registro de "francisco.lizarraga@procontacto.com.mx" debido a que eso fue realizado en el punto 2 con la request del método POST. Y al realizar el último GET como ya se había realizado la petición ya salío el registro.
+
+Ejercicio 4
+
