@@ -67,3 +67,12 @@ Que en la primera llamada no se encuentra el registro de "francisco.lizarraga@pr
 
 Ejercicio 4
 
+Realizar los siguientes módulos de Trailhead:
+ ●	Fundamento de la plataforma Salesforce
+ ●	Fundamentos de Apex y .NET
+ ●	Modelado de datos
+ ●	Fundamentos y base de datos de Apex
+ ●	Desencadenadores de Apex
+ ●	Apex Integration Services
+
+URL del pérfil público: https://trailblazer.me/id/flizrraga
