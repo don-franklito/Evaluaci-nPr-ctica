@@ -86,11 +86,11 @@ Explicar que son conceptualmente, qué datos almacenan en forma estándar y cóm
  1.	Lead: es un cliente potencial que ha demostrado interés en algún servicio de la empresa.
  2.	Account: son las compañías con las que se realizan negocios.
  3.	Contact: son las personas que trabajan para dichas compañías (Account).
- 4.	Opportunity:
- 5.	Product:
- 6.	PriceBook:
- 7.	Quote:
- 8.	Asset:
- 9.	Case:
- 10.	Article:
+ 4.	Opportunity: son acuerdos en curso, realizan un seguimiento de detalles acerca de acuerdos, incluyendo para qué cuentas son, quiénes son las personas implicadas y las cantidades de las ventas potenciales.
+ 5.	Product: son los elementos y servicios que distribuye a clientes.
+ 6.	PriceBook: es un objeto que se utiliza para marcar o actualizar precios de los productos que ofrece.
+ 7.	Quote: es el objeto que representa los precios propuestos para los productos o servicios que ofrece.
+ 8.	Asset:  los activos representan los productos específicos que han adquirido los clientes, almacenan información sobre los productos de los clientes.
+ 9.	Case: un caso es una inquietud de un cliente, puede ser una duda o un problema.
+ 10.	Article: son articulos de conocimientos, contienen información sobre puntos importantes como los procesos
 
