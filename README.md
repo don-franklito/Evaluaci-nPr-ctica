@@ -78,3 +78,19 @@ Para realizar la resolución de los ejercicios, primeramente se debe crear una c
  ●	Apex Integration Services
 
 URL del pérfil público: https://trailblazer.me/id/flizrraga
+
+Ejercicio 5
+
+Explicar que son conceptualmente, qué datos almacenan en forma estándar y cómo se relacionan el resto (algunos no se relacionan entre sí) cada uno de los siguientes objetos de Salesforce:
+
+ 1.	Lead: es un cliente potencial que ha demostrado interés en algún servicio de la empresa.
+ 2.	Account: son las compañías con las que se realizan negocios.
+ 3.	Contact: son las personas que trabajan para dichas compañías (Account).
+ 4.	Opportunity:
+ 5.	Product:
+ 6.	PriceBook:
+ 7.	Quote:
+ 8.	Asset:
+ 9.	Case:
+ 10.	Article:
+
