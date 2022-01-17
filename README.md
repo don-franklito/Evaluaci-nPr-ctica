@@ -53,6 +53,7 @@ R: Los headers o cabeceras son la parte central de una petición y permiten most
 
 Ejercicio 3
 
+Antes de realizar este ejercicio es importante descargar Postman, un software que nos permite hacer pruebas de API para obtener una request, se puede obtener de su sitio oficial: https://www.postman.com/downloads/
 1.	Realizar un request GET a la URL: https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts.json
 ![image](https://user-images.githubusercontent.com/93282584/148697949-6121fd04-0072-4849-bb53-07343934fa64.png)
 
@@ -67,7 +68,8 @@ Que en la primera llamada no se encuentra el registro de "francisco.lizarraga@pr
 
 Ejercicio 4
 
-Realizar los siguientes módulos de Trailhead:
+Para realizar la resolución de los ejercicios, primeramente se debe crear una cuenta de TrailHead con un correo eléctronico, una vez con la cuenta lo siguiente es leer los siguientes módulos y resolver sus retos o preguntas.
+
  ●	Fundamento de la plataforma Salesforce
  ●	Fundamentos de Apex y .NET
  ●	Modelado de datos
